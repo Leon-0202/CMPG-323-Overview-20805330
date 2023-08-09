@@ -5,6 +5,7 @@
 - [Branching Strategies](#branching-strategies)  
 - [gitignore Files](#gitignore-files)
 - [Storage of Credentials and Sensitive Information](#storage-of-credentials-and-sensitive-information)
+- [Burndown Chart](#burndown-chart) 
 - [References](#references) 
 
 ## Repositories
@@ -16,9 +17,13 @@ Repositories to be created and used for each project:
 - CMPG-323-Project05-20805330: Used for Project 5 - Reporting & Monitoring.
 
 ## Project and Repository Context
-A repository is essentially a storage location (similar to a folder) that stores related files and documentation. A project is a management tool that helps improve visualization and organization of tasks such as issues and pull requests (Khillar, 2021).
+A repository is essentially a storage location (similar to a folder) that stores related files and documentation. A project is a management tool that helps improve visualization and organization of tasks such as issues and pull requests (Khillar, 2021).  
 ![alt text](http://cdn.differencebetween.net/wp-content/uploads/2021/03/GitHub-Repository-vs-Project.jpg)  
-(Table used from http://www.differencebetween.net/technology/difference-between-github-repository-and-project/#:~:text=GitHub%20Repository%20vs.%20Project:%20Comparison%20Chart)
+(Table used from http://www.differencebetween.net/technology/difference-between-github-repository-and-project/#:~:text=GitHub%20Repository%20vs.%20Project:%20Comparison%20Chart)  
+
+So GitHub project CMPG-323-Project-20805330 will be used as an overview to help manage the flow of the tasks of the Github repositories for the five different projects, each of which will be linked to the project.  
+
+![Projects_Repositories](https://github.com/Leon-0202/CMPG-323-Overview-20805330/assets/110893659/7d703558-ebc6-4ce7-aa7b-49c0e36d1e78)  
 
 ## Branching Strategies
 Branching strategies to be used for each project:
@@ -32,8 +37,13 @@ Whenever a new feature is to the be added to the project, or whenever existing c
 From the remote repository, a pull request will be created.  The changes will reviewed, a proper description will be provided, and if automatically possible, merged into the main branch.  If not, the merge conflict will first be resolved before merging the feature branch into the main branch.  After the merge request is completed, the feature branch will subsequently be deleted.  
 
 ## gitignore Files
+Visual Studio 2022 will be used as an IDE for the projects. Therefor, for each project's GitHub repository, a gitignore file will be added for Visual Studio.  This is so that Git does not track the .vs related Visual Studio files, and they do not get committed to the repository.  
 
 ## Storage of Credentials and Sensitive Information
+No credentials or sensitive information will be stored in any of the repositories on GitHub.  Instead, the it will be stored locally (with redundant backups accross multiple devices/drives), and made available as needed.  
+
+## Burndown Chart
+![BurndownChart](https://github.com/Leon-0202/CMPG-323-Overview-20805330/assets/110893659/265a3160-78a7-4bca-8c1a-cb9844496217)  
 
 ## References
 Khillar, S. (2021) “Difference between GitHub repository and Project | Difference between,” Difference Between [Preprint]. Available at: http://www.differencebetween.net/technology/difference-between-github-repository-and-project/#:~:text=GitHub%20Repository%20vs.%20Project:%20Comparison%20Chart. (Accessed: 08 August 2023).
