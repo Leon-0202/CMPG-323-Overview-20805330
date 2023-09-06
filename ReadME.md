@@ -1,4 +1,4 @@
-## Table of contents
+![image](https://github.com/Leon-0202/CMPG-323-Overview-20805330/assets/110893659/ff513ac7-f794-4318-b6b0-935a988c35f9)## Table of contents
 
 - [Repositories](#repositories)  
 - [Project and Repository Context](#project-and-repository-context)  
@@ -74,6 +74,8 @@ No credentials or sensitive information will be stored in any of the repositorie
 - 2023/08/19; LearnMS; Describe the benefits of using cloud services; Badge; https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/
 - 2023/08/19; LearnMS; Describe cloud service types; Badge; https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/
 
+### Design Patterns & Standards
+- 2023/09/06; Mindluster; Design Patterns in C; https://www.mindluster.com/certificate/5908
 
 ## References
 Khillar, S. (2021) “Difference between GitHub repository and Project | Difference between,” Difference Between [Preprint]. Available at: http://www.differencebetween.net/technology/difference-between-github-repository-and-project/#:~:text=GitHub%20Repository%20vs.%20Project:%20Comparison%20Chart. (Accessed: 08 August 2023).
