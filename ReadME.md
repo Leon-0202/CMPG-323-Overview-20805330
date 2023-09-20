@@ -77,6 +77,7 @@ No credentials or sensitive information will be stored in any of the repositorie
 ### Design Patterns & Standards
 - 2023/09/06; Mindluster; Design Patterns in C; https://www.mindluster.com/certificate/5908
 - 2023/09/09; Mindluster; Design Patterns and Best Practices; https://www.mindluster.com/certificate/6957
+- 2023/09/19; Mindluster; Design Design Patterns in Java; https://www.mindluster.com/certificate/4051
 
 ## References
 Khillar, S. (2021) “Difference between GitHub repository and Project | Difference between,” Difference Between [Preprint]. Available at: http://www.differencebetween.net/technology/difference-between-github-repository-and-project/#:~:text=GitHub%20Repository%20vs.%20Project:%20Comparison%20Chart. (Accessed: 08 August 2023).
