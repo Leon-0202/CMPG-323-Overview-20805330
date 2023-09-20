@@ -1,4 +1,4 @@
-![image](https://github.com/Leon-0202/CMPG-323-Overview-20805330/assets/110893659/ff513ac7-f794-4318-b6b0-935a988c35f9)## Table of contents
+## Table of contents
 
 - [Repositories](#repositories)  
 - [Project and Repository Context](#project-and-repository-context)  
@@ -11,8 +11,11 @@
 
 ## Repositories
 Repositories to be created and used for each project:  
-### CMPG-323-Overview-20805330: Used primarily for Project 1 - Agile & Scrum, but also serves as a supporting repository for the other projects.  
+### CMPG-323-Overview-20805330: Used primarily for Project 1 - Agile & Scrum, but also serves as a supporting repository for the other projects. 
+
 ### CMPG-323-Project2-20805330: Used for Project 2 - API Development.
+#### The API can be accessed on Azure with the following link:
+https://restfullapi.azurewebsites.net/index.html
 #### The WebAPI was created as, and makes use of the following core features:  
 - Created as an ASP.NET Core Web API, using .NET 6.0 
 - Makes use of a SQL Server Database, hosted on Azure
@@ -23,8 +26,19 @@ Repositories to be created and used for each project:
 #### The following minor features were also implemented:
 - Data Transfer Objects are used to facilitate input and output of data
 - JsonPatchDocuments are used when PATCHing existing records in the database
+
 ### CMPG-323-Project3-20805330: Used for Project 3 - Standards & Patterns.
+#### The webapp can be accessed on Azure with the following link:
+https://cmpg323-project3-webapp.azurewebsites.net/
+#### The Web Application was created as, and makes use of the following core features:  
+- Created as an ASP.NET Core Web Application, using .NET 6.0 
+- Makes use of a SQL Server Database, hosted on Azure
+- Follows the repository design pattern
+- Includes a servide layer
+- The design pattern layers are implemented between projects
+  
 ### CMPG-323-Project4-20805330: Used for Project 4 - Testing & RPA.
+
 ### CMPG-323-Project5-20805330: Used for Project 5 - Reporting & Monitoring.
 
 ## Project and Repository Context
