@@ -95,6 +95,10 @@ No credentials or sensitive information will be stored in any of the repositorie
 
 ### Robotic Process Automation
 - 2023/10/02; Mindluster; UiPath for Beginners; https://www.mindluster.com/lesson/99261
+- 2023/10/03; Meet the UiPath Platform; https://academy.uipath.com/courses/meet-the-uipath-platform
+- 2023/10/04; Build Your First Process; https://academy.uipath.com/courses/build-your-first-process-v202110
+- 2023/10/04; A Day in the Life of an RPA Developer; https://academy.uipath.com/courses/a-day-in-the-life-of-an-rpa-developer-
+- 2023/10/09; Variables and Arguments in Studio; https://academy.uipath.com/courses/variables-and-arguments-in-studiov202110
 
 ## References
 Khillar, S. (2021) “Difference between GitHub repository and Project | Difference between,” Difference Between [Preprint]. Available at: http://www.differencebetween.net/technology/difference-between-github-repository-and-project/#:~:text=GitHub%20Repository%20vs.%20Project:%20Comparison%20Chart. (Accessed: 08 August 2023).
