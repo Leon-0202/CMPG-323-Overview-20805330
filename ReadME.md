@@ -38,6 +38,12 @@ https://cmpg323-project3-webapp.azurewebsites.net/
 - The design pattern layers are implemented between projects
   
 ### CMPG-323-Project4-20805330: Used for Project 4 - Testing & RPA.
+#### Automation Process Overview
+The UiPath User Acceptance Testing automation process has some of the following core features:
+- It tests CRUD operations.
+- It first adds all the records for a selected entity (e.g., Customer), then edits all records, and then deletes all records.
+- The user can select which entities to test during a run.
+- The automation process logs the user in at the start of a run, and logs the user out at the end of the run.
 
 ### CMPG-323-Project5-20805330: Used for Project 5 - Reporting & Monitoring.
 
