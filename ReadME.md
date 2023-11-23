@@ -54,7 +54,7 @@ A repository is essentially a storage location (similar to a folder) that stores
 
 So GitHub project CMPG-323-Project-20805330 will be used as an overview to help manage the flow of the tasks of the Github repositories for the five different projects, each of which will be linked to the project.  
 
-![Projects_Repositories](https://github.com/Leon-0202/CMPG-323-Overview-20805330/assets/110893659/7d703558-ebc6-4ce7-aa7b-49c0e36d1e78)  
+![Projects_Repositories](https://github.com/Leon-0202/CMPG-323-Overview-20805330/blob/main/Assets/Projects_Repositories.png)  
 
 ## Branching Strategies
 Branching strategies to be used for each project:
@@ -74,7 +74,7 @@ Visual Studio 2022 will be used as an IDE for the projects. Therefor, for each p
 No credentials or sensitive information will be stored in any of the repositories on GitHub.  Instead, the it will be stored locally (with redundant backups accross multiple devices/drives), and made available as needed.  
 
 ## Burndown Chart
-![BurndownChart](https://github.com/Leon-0202/CMPG-323-Overview-20805330/assets/110893659/265a3160-78a7-4bca-8c1a-cb9844496217)  
+![BurndownChart](https://github.com/Leon-0202/CMPG-323-Overview-20805330/blob/main/Assets/BurndownChart.png)  
 
 ## Training Completed
 ### Agile/Scrum
