@@ -49,7 +49,7 @@ The UiPath User Acceptance Testing automation process has some of the following 
 
 ## Project and Repository Context
 A repository is essentially a storage location (similar to a folder) that stores related files and documentation. A project is a management tool that helps improve visualization and organization of tasks such as issues and pull requests (Khillar, 2021).  
-![alt text](http://cdn.differencebetween.net/wp-content/uploads/2021/03/GitHub-Repository-vs-Project.jpg)  
+![alt text](https://3ba1f5b2.rocketcdn.me/wp-content/uploads/2021/03/GitHub-Repository-vs-Project.jpg)  
 (Table used from http://www.differencebetween.net/technology/difference-between-github-repository-and-project/#:~:text=GitHub%20Repository%20vs.%20Project:%20Comparison%20Chart)  
 
 So GitHub project CMPG-323-Project-20805330 will be used as an overview to help manage the flow of the tasks of the Github repositories for the five different projects, each of which will be linked to the project.  
